@@ -16,6 +16,10 @@ Detect disturbance is one of the main feature of this software. It detect any di
 
 Mouse controlling using web cam. It is a feature using which we can control mouse by showing pertucular object. It is a example of gesture recognition. In our case we are using blue circle to control mouse.
 
+# Link to Download Software
+
+click [Download](https://github.com/Kailash-S11/FaDeIP)
+
 # Password to open zip file
 
 open$$fadeip@2000
